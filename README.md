@@ -1,6 +1,6 @@
 
 
-# FREE AI Agens  - Open Prompt Commons 🌍
+# FREE AI Agents  - Open Prompt Commons 🌍
 **Democratizing AI Through Community-Driven Prompt Sharing**
 
 *When AI wrappers charge premium prices for simple prompt engineering, we provide the prompts for free.*
